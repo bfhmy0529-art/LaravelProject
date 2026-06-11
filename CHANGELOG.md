@@ -8,3 +8,7 @@
 
 ## v0.1 - 2026-05-17
 - Initial Laravel project setup
+## v0.4 - 2026-06-12
+- Added project plan documentation
+- Added web routes file
+- Added welcome page view
