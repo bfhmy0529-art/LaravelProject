@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - LaravelProject</title>
+</head>
+<body>
+    <h1>About This Project</h1>
+    <p>A Laravel web application developed by ABDULRAHMAN THABIT as a course project.</p>
+</body>
+</html>
