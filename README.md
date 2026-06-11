@@ -13,3 +13,6 @@ ABDULRAHMAN THABIT (bfhmy0529-art)
 ## Features
 - Project setup and configuration
 - More features coming soon
+Route::get('/about', function () {
+    return view('about');
+});
