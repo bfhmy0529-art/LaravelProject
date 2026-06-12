@@ -16,3 +16,7 @@
 - Removed .env file for security
 - Organized routes and views into correct folders
 - Added contact page route
+## v0.5 - 2026-06-12
+- Removed .env file for security
+- Added routes file with all page routes
+- Organized views into correct folders
