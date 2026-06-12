@@ -12,3 +12,7 @@
 - Added project plan documentation
 - Added web routes file
 - Added welcome page view
+## v0.5 - 2026-06-12
+- Removed .env file for security
+- Organized routes and views into correct folders
+- Added contact page route
