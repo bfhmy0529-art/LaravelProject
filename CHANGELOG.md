@@ -20,3 +20,11 @@
 - Removed .env file for security
 - Added routes file with all page routes
 - Organized views into correct folders
+# Changelog
+
+## [1.0.0] - 2026-06-14
+### Added
+- Initial project setup
+- Laravel framework integration
+- Database configuration
+- Basic routing structure
